@@ -1,0 +1,4 @@
+baseURL = "https://beautymusic78.vercel.app"
+languageCode = "en-us"
+title = "Beauty Flute Sheet Music"
+theme = "hugo-theme-minos"
